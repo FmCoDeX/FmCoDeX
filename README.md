@@ -1,7 +1,7 @@
 # <div align="center">👋 Hola, soy FmCoDeX</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Desarrollador+en+aprendizaje;Creador+de+proyectos+digitales;Python+%7C+HTML+%7C+JavaScript;Siempre+aprendiendo+nuevas+tecnologías" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Desarrolladora;Creadora+de+proyectos+digitales;Python+%7C+HTML+%7C+JavaScript;Siempre+aprendiendo+nuevas+tecnologías" alt="Typing SVG" />
 </div>
 
 ---
