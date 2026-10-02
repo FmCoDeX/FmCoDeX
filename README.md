@@ -8,10 +8,10 @@
 
 ## 🚀 Sobre mí
 
-💻 Soy un desarrollador en aprendizaje apasionado por la tecnología.  
+💻 Soy un desarrolladora apasionada por la tecnología.  
 🎯 Me gusta crear proyectos útiles, juegos, interfaces y soluciones digitales.  
 🌱 Actualmente sigo fortaleciendo mis conocimientos en programación y desarrollo web.  
-🔥 Mi meta es seguir creciendo como programador y construir proyectos cada vez más completos.
+🔥 Mi meta es seguir creciendo como programadora y construir proyectos cada vez más completos.
 
 ---
 
