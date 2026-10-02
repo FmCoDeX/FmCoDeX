@@ -49,3 +49,4 @@
 🔧 Git y GitHub
 🧩 Desarrollo de aplicaciones
 💻 Desarrollo web
+Entre otros
