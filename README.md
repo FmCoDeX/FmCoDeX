@@ -2,7 +2,7 @@
 
 # 👩‍💻 Hola, soy FmCoDeX
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Desarrolladora+en+aprendizaje;Python+%7C+HTML+%7C+JavaScript;Creando+ideas+con+código;Aprendiendo+y+mejorando+cada+día" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Desarrolladora;Python+%7C+HTML+%7C+JavaScript;Creando+ideas+con+código;Aprendiendo+y+mejorando+cada+día" alt="Typing SVG" />
 
 ### 💙 Código • Creatividad • Tecnología
 
@@ -12,7 +12,7 @@
 
 ## 🚀 Sobre mí
 
-💻 Soy una **desarrolladora en aprendizaje** apasionada por la tecnología y la programación.
+💻 Soy una **desarrolladora** apasionada por la tecnología y la programación.
 
 🧠 Me gusta aprender, experimentar y descubrir nuevas formas de convertir ideas en soluciones digitales.
 
@@ -40,7 +40,7 @@
 
 ---
 
-## 🌱 Actualmente aprendiendo
+## 🌱 Capacitada en:
 
 ```text
 🐍 Python
