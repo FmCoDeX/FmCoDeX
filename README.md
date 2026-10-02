@@ -1,21 +1,30 @@
-# <div align="center">👋 Hola, soy FmCoDeX</div>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Desarrolladora;Creadora+de+proyectos+digitales;Python+%7C+HTML+%7C+JavaScript;Siempre+aprendiendo+nuevas+tecnologías" alt="Typing SVG" />
+
+# 👩‍💻 Hola, soy FmCoDeX
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Desarrolladora+en+aprendizaje;Python+%7C+HTML+%7C+JavaScript;Creando+ideas+con+código;Aprendiendo+y+mejorando+cada+día" alt="Typing SVG" />
+
+### 💙 Código • Creatividad • Tecnología
+
 </div>
 
 ---
 
 ## 🚀 Sobre mí
 
-💻 Soy un desarrolladora apasionada por la tecnología.  
-🎯 Me gusta crear proyectos útiles, juegos, interfaces y soluciones digitales.  
-🌱 Actualmente sigo fortaleciendo mis conocimientos en programación y desarrollo web.  
-🔥 Mi meta es seguir creciendo como programadora y construir proyectos cada vez más completos.
+💻 Soy una **desarrolladora en aprendizaje** apasionada por la tecnología y la programación.
+
+🧠 Me gusta aprender, experimentar y descubrir nuevas formas de convertir ideas en soluciones digitales.
+
+🌐 Actualmente estoy fortaleciendo mis conocimientos en desarrollo web, programación y herramientas tecnológicas.
+
+🎯 Mi objetivo es seguir creciendo como desarrolladora, mejorar mis habilidades y construir proyectos cada vez más completos.
+
+✨ Disfruto enfrentar nuevos retos, aprender de cada proceso y seguir evolucionando en el mundo de la tecnología.
 
 ---
 
-## 🛠️ Tecnologías que uso
+## 🛠️ Tecnologías y herramientas
 
 <div align="center">
 
@@ -25,62 +34,18 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
 
-## 📌 Proyecto destacado
+## 🌱 Actualmente aprendiendo
 
-### 🎮 Juego X-O en Python
-Juego clásico de X y O con interfaz gráfica desarrollado usando **Python** y **Tkinter**.
-
-✅ Interfaz visual  
-✅ Lógica del juego  
-✅ Proyecto funcional  
-✅ Ideal para práctica y aprendizaje
-
-🔗 **Repositorio:** [juego-x-o-python](https://github.com/FmCoDeX/juego-x-o-python)
-
----
-
-## 📈 Estadísticas de GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FmCoDeX&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FmCoDeX&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🏆 Logros
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=FmCoDeX&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15)
-
-</div>
-
----
-
-## 📫 Conecta conmigo
-
-Si quieres seguir mi progreso o ver mis proyectos, aquí está mi perfil:
-
-🔗 **GitHub:** [github.com/FmCoDeX](https://github.com/FmCoDeX)
-
----
-
-## ⚡ Frase personal
-
-> *“Código, creatividad y constancia: así se construyen grandes proyectos.”*
-
----
-
-<div align="center">
-
-### 💙 Gracias por visitar mi perfil
-
-</div>
+```text
+🐍 Python
+🌐 HTML y CSS
+⚡ JavaScript
+🔧 Git y GitHub
+🧩 Desarrollo de aplicaciones
+💻 Desarrollo web
